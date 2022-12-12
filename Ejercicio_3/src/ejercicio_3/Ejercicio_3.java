@@ -27,7 +27,7 @@ public class Ejercicio_3 {
         System.out.println("Resultados:");
         System.out.println("La suma de los números ingresados es: "+sO.sumar(oper1));
         System.out.println("La resta de los números ingresados es: "+sO.restar(oper1));
-        System.out.println("La multiplicacion de los números ingresados es: "+sO.multiplicar(oper1));
+        System.out.println("La multiplicación de los números ingresados es: "+sO.multiplicar(oper1));
         System.out.println("La división de los números ingresados es: "+(float)sO.dividir(oper1));
     }
     
